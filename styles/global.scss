@@ -1,4 +1,10 @@
-@font-face{
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,400;1,300&family=Lobster&display=swap');
+
+@font-face {
   font-family: 'Lobster', cursive;
   src: url('/fonts/Lobster-Regular.tff') format('tff');
+}
+
+body {
+  font-family: 'Lato', sans-serif;
 }
