@@ -18,8 +18,9 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "components/MobileNav.tsx",
-    "components/Hero.tsx"
+    "components/MobileNav.jsx",
+    "components/Hero.jsx",
+    "components/NavBar.jsx"
   ],
   "exclude": ["node_modules"]
 }
