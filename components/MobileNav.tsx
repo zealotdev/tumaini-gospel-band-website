@@ -10,7 +10,7 @@ const Container = tw.div`
   px-4 py-4
   flex
   justify-between
-  content-center
+  items-center
 `;
 
 const Logo = styled.a`
